@@ -68,14 +68,10 @@ Improve documentation 📚
 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 🎯 Game Screenshots
-
-*(You can add actual screenshots later)*
-
-**Main Menu:**
-
 🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯
+
 WELCOME TO GUESS THE NUMBER GAME!
+
 🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯
 
 
